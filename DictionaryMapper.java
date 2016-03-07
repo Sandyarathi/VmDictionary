@@ -28,8 +28,8 @@ public class DictionaryMapper  extends Mapper<Text, Text, Text, Text> {
                         }
                         
                     }*/
-                String partsOfSpeech = key.toString().substring(key.toString().lastIndexOf('['),key.toString().length());
-                String translations= key.toString().substring(0,key.toString().lastIndexOf('[')-1 );
+                String partsOfSpeech = value.toString().substring(value.toString().lastIndexOf('['),value.toString().length());
+                String translations= value.toString().substring(0,value.toString().lastIndexOf('[')-1 );
                 if(valid(partsOfSpeech)){
                     String keyMap= key + " : ["+partsOfSpeech+"]";
                     String valueMap = language+ ":"+translations;
