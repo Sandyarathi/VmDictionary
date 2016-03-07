@@ -18,7 +18,7 @@ public class DictionaryMapper  extends Mapper<Text, Text, Text, Text> {
     }
     public void map(Text key, Text value, Context context) throws IOException, InterruptedException {
             if(!(key.toString().charAt(0)=='#') && (value.toString().indexOf('['))>0){
-                    String[] splitValue=value.toString().split("\\[");
+                    /*String[] splitValue=value.toString().split("\\[");
                     if(splitValue.length!=0 && splitValue.length!=1 ){
                         String partsOfSpeech = splitValue[1].substring(0,splitValue[1].length()-1);
                         if(valid(partsOfSpeech)){
@@ -27,8 +27,15 @@ public class DictionaryMapper  extends Mapper<Text, Text, Text, Text> {
                             context.write(new Text(keyMap), new Text(valueMap));
                         }
                         
-                    }
-            
+                    }*/
+                String partsOfSpeech = key.toString().substring(key.toString().lastIndexOf('['),key.toString().length());
+                String translations= key.toString().substring(0,key.toString().lastIndexOf('[')-1 );
+                if(valid(partsOfSpeech)){
+                    String keyMap= key + " : ["+partsOfSpeech+"]";
+                    String valueMap = language+ ":"+translations;
+                    System.out.println("key: "+keyMap);
+                    context.write(new Text(keyMap), new Text(valueMap));
+                }
             }
         
     }
