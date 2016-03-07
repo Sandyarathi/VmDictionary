@@ -30,6 +30,8 @@ public class DictionaryMapper  extends Mapper<Text, Text, Text, Text> {
                     }*/
                 String partsOfSpeech = value.toString().substring(value.toString().lastIndexOf('[')+1,value.toString().length()-1);
                 String translations= value.toString().substring(0,value.toString().lastIndexOf('[')-1 );
+                System.out.println("POS: "+partsOfSpeech);
+                System.out.println("value: "+translations);
                 if(valid(partsOfSpeech)){
                     String keyMap= key + " : ["+partsOfSpeech+"]";
                     String valueMap = language+ ":"+translations;
