@@ -20,7 +20,7 @@ public class DictionaryDriver extends Configured implements Tool {
    public int run(String[] args) throws Exception {
       Job job = new Job(getConf(), "mydictionary");
       job.setJarByClass(DictionaryDriver.class);
-     job.setNumReduceTasks(0);
+     //job.setNumReduceTasks(0);
       job.setMapperClass(DictionaryMapper.class);
       job.setReducerClass(DictionaryReducer.class);
       
