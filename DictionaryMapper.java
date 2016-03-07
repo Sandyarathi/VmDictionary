@@ -30,19 +30,23 @@ public class DictionaryMapper  extends Mapper<Text, Text, Text, Text> {
                     }*/
                 String partsOfSpeech = value.toString().substring(value.toString().lastIndexOf('[')+1,value.toString().length()-1);
                 String translations= value.toString().substring(0,value.toString().lastIndexOf('[')-1 );
-                System.out.println("POS: "+partsOfSpeech);
-                System.out.println("value: "+translations);
+                //System.out.println("POS: "+partsOfSpeech);
+                //System.out.println("value: "+translations);
+
                 if(valid(partsOfSpeech)){
+                    System.out.println("valid POS found");
                     String keyMap= key + " : ["+partsOfSpeech+"]";
                     String valueMap = language+ ":"+translations;
                     System.out.println("key: "+keyMap);
+                    System.out.println("Value: "+ valueMap);
+
                     context.write(new Text(keyMap), new Text(valueMap));
                 }
             }
         
     }
     private boolean valid(String partsOfSpeech) {
-        String[] words = {"Noun", "Pronoun", "Verb", "Adverb", "Adjective", "Preposition", "Conjunction"};  
+        String[] words = {"Noun", "Pronoun", "Verb", "Adverb", "Adjective", "Preposition", "Conjunction", "Interjection"};  
         return (Arrays.asList(words).contains(partsOfSpeech));
     }
     
