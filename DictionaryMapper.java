@@ -46,7 +46,7 @@ public class DictionaryMapper  extends Mapper<Text, Text, Text, Text> {
         
     }
     private boolean valid(String partsOfSpeech) {
-        String[] words = {"Noun", "Pronoun", "Verb", "Adverb", "Adjective", "Preposition", "Conjunction", "Interjection"};  
+        String[] words = {"Noun", "Pronoun", "Verb", "Adverb", "Adjective", "Preposition", "Conjunction", "interjection"};  
         return (Arrays.asList(words).contains(partsOfSpeech));
     }
     

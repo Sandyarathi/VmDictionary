@@ -1,0 +1,384 @@
+abacus : [Noun]	portuguese:abacus
+abacuses : [Noun]	portuguese:abaci
+abandoned : [Adjective]	portuguese:desertus, perditus
+abandonee : [Noun]	portuguese:desertus, perditus
+abandoner : [Noun]	portuguese:desertor, gen. desertoris
+abandoning : [Adjective]	portuguese:deserens
+abandonment : [Noun]	portuguese:destitutio (f.), gen. destitutionis
+abandonments : [Noun]	portuguese:destitutiones
+abandons : [Verb]	portuguese:deserit, relinquit, destituit
+abase : [Verb]	portuguese:deminuere
+abased : [Verb]	portuguese:deminui
+abased : [Adjective]	portuguese:deminutus
+abasement : [Noun]	portuguese:deminutio (f.), gen. deminutionis
+abasements : [Noun]	portuguese:deminutiones
+abases : [Verb]	portuguese:minuit, frangit, deminuit
+abashed : [Adjective]	portuguese:perturbatus
+abashes : [Verb]	portuguese:perturbat
+abashment : [Noun]	portuguese:perturbatio (f.), gen. perturbationis
+abasing : [Adjective]	portuguese:minuens, frangens, deminuens
+abated : [Verb]	portuguese:cecidi, imminui, remissi
+abatements : [Noun]	portuguese:remissiones
+abates : [Verb]	portuguese:cadit, imminuit, remittit
+abating : [Adjective]	portuguese:cadens, imminuens, remittens
+abbe : [Noun]	portuguese:abbas, gen. abbatis
+abbey : [Noun]	portuguese:abbatia, -ae, fem
+abbeys : [Noun]	portuguese:abbatiae, -arum, fem
+abbot : [Noun]	portuguese:abbas, gen. abbatis
+abbots : [Noun]	portuguese:abbates
+abbreviate : [Verb]	portuguese:imminuare
+abdicate : [Verb]	portuguese:abdicare
+abdomen : [Noun]	portuguese:abdomen
+abduct : [Verb]	portuguese:rapiere
+abduction : [Noun]	portuguese:raptus
+aberration : [Noun]	portuguese:error
+abet : [Verb]	portuguese:adiuvare
+abetter : [Noun]	portuguese:instigator
+abhor : [Verb]	portuguese:abhorrere
+abhorrence : [Noun]	portuguese:odium
+abhorrent : [Adjective]	portuguese:perosus
+abide : [Verb]	portuguese:patior
+ability : [Noun]	portuguese:facultas
+abject : [Adjective]	portuguese:abjectus
+ablaze : [Adjective]	portuguese:ardens
+advertisement : [Noun]	portuguese:proscriptio, -onis (f.)
+advertisements : [Noun]	portuguese:proscriptiones, -ium (f.)
+advise : [Verb]	portuguese:admoneo, -ere, -monui, -monitum
+advise : [Verb]	portuguese:moneo, monere, monui, monitum
+advised : [Adjective]	portuguese:monitus
+and : [Conjunction]	portuguese:et
+and : [Conjunction]	portuguese:-que (enclitic conjunction, suffix) 
+approach : [Verb]	portuguese:appropinquare
+arrow : [Noun]	portuguese:saggitus, -i (m.)
+arrows : [Noun]	portuguese:saggiti, -orum (m.)
+art : [Noun]	portuguese:ars, artis 
+avarice : [Noun]	portuguese:avaritia
+avariciously : [Adverb]	portuguese:avare
+backward : [Adjective]	portuguese:aversus
+bad : [Adjective]	portuguese:malus
+bastard : [Noun]	portuguese:nothus
+be : [Verb]	portuguese:esse
+best : [Adjective]	portuguese:maximus, -a, -um
+best : [Adverb]	portuguese:maxime
+better : [Adjective]	portuguese:melior
+better : [Adverb]	portuguese:meliorius
+blind : [Adjective]	portuguese:caecus
+boy : [Noun]	portuguese:puer
+but : [Conjunction]	portuguese:sed
+but : [Conjunction]	portuguese:atque (stronger form, "but mind you..")
+but : [Conjunction]	portuguese:ac (diff. spelling of atque)
+citizen : [Noun]	portuguese:citizen
+condemn : [Verb]	portuguese:damno, -are, -avi, -atus
+condemnation : [Noun]	portuguese:damnatio, -onis (f.)
+condemnations : [Noun]	portuguese:damnationes, -ium (f.)
+condemnatory : [Adjective]	portuguese:damnatiorius
+condemned : [Adjective]	portuguese:damnatus
+condemning : [Noun]	portuguese:damnans, -ntis
+contemplate : [Verb]	portuguese:contemplari
+contemplate : [Verb]	portuguese:intueri
+contemplation : [Noun]	portuguese:contemplatio
+contemporaneous : [Adjective]	portuguese:quod eodem tempore est
+contemporary : [Adjective]	portuguese:aequalis
+contempt : [Noun]	portuguese:contemptus
+contempt : [Noun]	portuguese:fastidium
+contemptible : [Adjective]	portuguese:abiectus
+contemptible : [Adjective]	portuguese:contemnendus
+contemptible : [Adjective]	portuguese:contemptus
+contemptible : [Adjective]	portuguese:turpis
+contend : [Verb]	portuguese:certare
+contend : [Verb]	portuguese:contendere
+contend : [Verb]	portuguese:decernere
+contends : [Verb]	portuguese:certat
+contends : [Verb]	portuguese:decernit
+content : [Adjective]	portuguese:contentus
+contented : [Adjective]	portuguese:contentus
+contentedly : [Adverb]	portuguese:aequo animo
+contentedness : [Noun]	portuguese:animus contentus
+contentious : [Adjective]	portuguese:pugnax
+contentment : [Noun]	portuguese:animus contentus
+contents : [Noun]	portuguese:quod in libro continetur
+conterminous : [Adjective]	portuguese:confinis
+contest : [Noun]	portuguese:certamen
+contest : [Noun]	portuguese:certatio
+contest : [Verb]	portuguese:contendere
+contest : [Noun]	portuguese:contentio
+context : [Noun]	portuguese:argumentum
+context : [Noun]	portuguese:ratio verborum
+contexts : [Noun]	portuguese:argumenti
+contiguity : [Noun]	portuguese:propinquitas
+contiguity : [Noun]	portuguese:vicinitas
+contiguous : [Adjective]	portuguese:confinis
+contiguous : [Adjective]	portuguese:continens
+continence : [Noun]	portuguese:continentia
+continence : [Noun]	portuguese:temperantia
+continent : [Adjective]	portuguese:castus
+continent : [Noun]	portuguese:continens
+cookie : [Noun]	portuguese:crustulum, -i (n.)
+cookies : [Noun]	portuguese:crustuli, -orum (n.)
+create : [Verb]	portuguese:creare (inf.)
+created : [Adjective]	portuguese:creatus
+creator : [Noun]	portuguese:creator, -oris (m.)
+creators : [Noun]	portuguese:creatores, -ium (m.)
+credible : [Adjective]	portuguese:credebilis, -e
+credibly : [Adverb]	portuguese:credebiliter
+creditor : [Noun]	portuguese:creditor, -oris (m.)
+creditors : [Noun]	portuguese:creditores, -ium (m.)
+credulity : [Noun]	portuguese:credulitas, -atis (f.)
+credulous : [Adjective]	portuguese:credulus
+credulously : [Adverb]	portuguese:credule
+cunning : [Noun]	portuguese:versutiae, -arum
+cunningly : [Adverb]	portuguese:versute
+cupidity : [Noun]	portuguese:cupiditas, -atis
+daily : [Adverb]	portuguese:cotidie (or cottidie)
+danger : [Noun]	portuguese:periculum
+death : [Noun]	portuguese:mors
+devil : [Noun]	portuguese:diabolus, -i (m.) (as in Satan)
+devils : [Noun]	portuguese:diaboli, -orum (m.)
+drunken : [Adverb]	portuguese:ebrius
+enough : [Noun]	portuguese:satis (indecl.)
+err : [Verb]	portuguese:errare
+erring : [Noun]	portuguese:errans
+eternal : [Adjective]	portuguese:aeturnus
+eternally : [Adverb]	portuguese:aeturne
+experienced : [Adjective]	portuguese:versatus
+eye : [Noun]	portuguese:oculus, -i (m.)
+eyes : [Noun]	portuguese:oculi, -orum (m.)
+fall : [Verb]	portuguese:labes
+fire : [Noun]	portuguese:ignem
+five : [Adjective]	portuguese:quinque (indecl.)
+forget : [Verb]	portuguese:oblivisci
+forgetful : [Adjective]	portuguese:obliviosus
+forgetfulness : [Noun]	portuguese:oblivio
+forgiveness : [Noun]	portuguese:venia
+forgiving : [Adjective]	portuguese:clemens
+fork : [Noun]	portuguese:furca
+forked : [Adjective]	portuguese:bifurcus
+forlorn : [Adjective]	portuguese:relictus
+four : [Adjective]	portuguese:quattuor (indecl.) (IV, IIII)
+glorious : [Adjective]	portuguese:decorum
+go : [Verb]	portuguese:Ite
+go : [Verb]	portuguese:eo, ire, ii, itum
+good : [Adjective]	portuguese:bonus, -a, -um
+greed : [Noun]	portuguese:avaritia
+haberdasher : [Noun]	portuguese:linteo -onis (m)
+haberdashery : [Noun]	portuguese:taberna -ae (f)
+habit : [Noun]	portuguese:consuetudo -inis (f)
+habitation : [Noun]	portuguese:habitatio -onis (f)
+habitual : [Adjective]	portuguese:usitatus -a -um
+habitually : [Adverb]	portuguese:de more
+iron : [Noun]	portuguese:ferrum, -i (n.) (as the metal)
+kill : [Verb]	portuguese:neco, necare, necavi, necatum
+killed : [Adjective]	portuguese:necatus
+law : [Noun]	portuguese:lex,legis
+lead : [Verb]	portuguese:ducere
+light : [Noun]	portuguese:lux,lucis
+machete : [Noun]	portuguese:gladium
+machine : [Noun]	portuguese:machina
+master : [Noun]	portuguese:magister, -tri (m.); magistra, -ae (f.)
+masters : [Noun]	portuguese:magistri, -orum (m.); magistrae, -arum (f.)
+meditate : [Verb]	portuguese:cogitare
+meditate : [Verb]	portuguese:commentari
+meditate : [Verb]	portuguese:meditari
+meditates : [Verb]	portuguese:cogitat
+meditation : [Noun]	portuguese:cogitatio
+meditation : [Noun]	portuguese:commentatio
+meditation : [Noun]	portuguese:meditatio
+meditative : [Adjective]	portuguese:in cognitatione defixus
+medlar : [Noun]	portuguese:mespilum
+medlar : [Noun]	portuguese:mespilus
+medley : [Noun]	portuguese:conluvies
+medley : [Noun]	portuguese:conluvio
+medley : [Noun]	portuguese:farrago
+meek : [Adjective]	portuguese:demissus
+meek : [Adjective]	portuguese:modestus
+meek : [Adjective]	portuguese:verecundus
+meekly : [Adverb]	portuguese:modeste
+meekly : [Adverb]	portuguese:verecunde
+meekness : [Noun]	portuguese:animus demissus
+meekness : [Noun]	portuguese:modestia
+meekness : [Noun]	portuguese:verecundia
+meeting : [Noun]	portuguese:concursus
+meeting : [Noun]	portuguese:congressio
+meeting : [Noun]	portuguese:conventus
+monster : [Noun]	portuguese:belua
+moon : [Noun]	portuguese:luna
+moons : [Noun]	portuguese:lunae
+motherland : [Noun]	portuguese:patria
+mountain : [Noun]	portuguese:mons,montis
+mouse : [Noun]	portuguese:mus
+mouth : [Noun]	portuguese:os
+multicolored : [Adjective]	portuguese:versicolor, -oris (abl.: -ore, -ori)
+new : [Adjective]	portuguese:novus, -a, -um
+nor : [Conjunction]	portuguese:nec
+nor : [Conjunction]	portuguese:nec... nec... "neither... nor..."
+nothing : [Noun]	portuguese:nihil (indecl.)
+opponent : [Noun]	portuguese:adversatrix, -icis (f.); adversator, -oris (m.)
+opportune : [Adjective]	portuguese:opportunus
+opportunely : [Adverb]	portuguese:opportune
+opportunity : [Noun]	portuguese:opportunitas, -atis (f.)
+opposite : [Adjective]	portuguese:adversarius
+oppositely : [Adverb]	portuguese:adversum
+opprobrium : [Noun]	portuguese:opprobrium, -i (n.)
+or : [Conjunction]	portuguese:aut
+or : [Conjunction]	portuguese:aut... aut ("either... or...")
+pacemaker : [Noun]	portuguese:No Translation
+pillow : [Noun]	portuguese:lodix, -icis
+pillows : [Noun]	portuguese:lodices, -ium
+praise : [Verb]	portuguese:laudo, laudare, laudavi, laudatum
+praise : [Verb]	portuguese:lauda (command)
+praised : [Adjective]	portuguese:laudatus, -a, -um
+praiser : [Noun]	portuguese:laudator, -oris (m.)
+praisers : [Noun]	portuguese:laudatores, -ium (m.)
+pray : [Verb]	portuguese:orare
+pray : [Verb]	portuguese:precari
+pray : [Verb]	portuguese:rogare
+prayer : [Noun]	portuguese:imploratio
+prayer : [Noun]	portuguese:precatio
+prayer : [Noun]	portuguese:preces
+prayerful : [Adjective]	portuguese:supplex
+praying : [Noun]	portuguese:precatio
+praying : [Noun]	portuguese:preces
+preach : [Verb]	portuguese:docere
+preach : [Verb]	portuguese:orationem habere
+preach : [Verb]	portuguese:praedicare
+preacher : [Noun]	portuguese:praedicator
+preaches : [Verb]	portuguese:docet
+preaches : [Verb]	portuguese:orationem habet
+preaches : [Verb]	portuguese:praedica
+preamble : [Noun]	portuguese:exordium
+preambles : [Noun]	portuguese:exordia
+prosecutor : [Noun]	portuguese:condemnator, -oris (m.)
+prosecutors : [Noun]	portuguese:condemnatores, -ium (m.)
+prospect : [Noun]	portuguese:prospectus, -us (m.)
+prospering : [Noun]	portuguese:prosperans, -ntis
+prosperity : [Noun]	portuguese:prosperitas, -atis (f.)
+prosperous : [Adjective]	portuguese:prosperus
+prosperously : [Adverb]	portuguese:prospere
+prostitute : [Verb]	portuguese:prostituo, -ere, -ui, -utus
+prostrate : [Verb]	portuguese:prosterno, -ere, -stravi, -stratum
+prostrated : [Adjective]	portuguese:prostratus
+quadrangular : [Adjective]	portuguese:quadriangulus
+quadruped : [Noun]	portuguese:quadrupes
+quadruple : [Adjective]	portuguese:quadruplex
+quaestor : [Noun]	portuguese:quaestor
+quagmire : [Noun]	portuguese:palus
+quail : [Noun]	portuguese:coturnix
+quails : [Noun]	portuguese:coturnices
+quaint : [Adjective]	portuguese:mirus
+quake : [Verb]	portuguese:tremere
+qualified : [Adjective]	portuguese:aptus
+read : [Verb]	portuguese:legere
+read : [Verb]	portuguese:recitare
+readable : [Adjective]	portuguese:iucundus legenti
+reader : [Noun]	portuguese:lector
+reader : [Noun]	portuguese:legens
+readily : [Adverb]	portuguese:facile
+readily : [Adjective]	portuguese:prompte
+readiness : [Noun]	portuguese:animus promptus
+reading : [Noun]	portuguese:lectio
+reading : [Noun]	portuguese:recitatio
+reads : [Verb]	portuguese:legit
+reads : [Verb]	portuguese:recita
+ready : [Adjective]	portuguese:paratus
+ready : [Adjective]	portuguese:promptus
+real : [Adjective]	portuguese:sincerus
+real : [Adjective]	portuguese:verus
+realism : [Noun]	portuguese:veritatem imitari
+realistic : [Adjective]	portuguese:veritatem imitari
+save : [Verb]	portuguese:servare
+saves : [Verb]	portuguese:servat
+savior : [Noun]	portuguese:salvator
+seize : [Preposition]	portuguese:carpe
+senate : [Noun]	portuguese:senatus, -us (m.)
+seven : [Adjective]	portuguese:septem (indecl.)
+shade : [Noun]	portuguese:umbra, -ae (f.) (as in the shade of an umbrella)
+shades : [Noun]	portuguese:umbrae, -arum (f) (as in the shade of an umbrella)
+sinners : [Noun]	portuguese:maledicti
+spirit : [Noun]	portuguese:spiritum
+superintendent : [Noun]	portuguese:curator, -oris
+sweet : [Adjective]	portuguese:dulce
+sword : [Noun]	portuguese:gladius
+tear : [Noun]	portuguese:fletus
+tear : [Verb]	portuguese:lacerare
+tear : [Noun]	portuguese:lacrima
+tear : [Verb]	portuguese:laniare
+tear : [Verb]	portuguese:scindere
+tear : [Verb]	portuguese:vellere
+teardrop : [Noun]	portuguese:fletus
+teardrop : [Noun]	portuguese:lacrima
+tearful : [Adjective]	portuguese:flebilis
+tearful : [Adjective]	portuguese:lacrimans
+tearful : [Adjective]	portuguese:lacrimosus
+tearfully : [Adverb]	portuguese:magno cum fletu
+tearfully : [Adverb]	portuguese:multis cum lacrimis
+tearing : [Noun]	portuguese:scissura
+tearless : [Adjective]	portuguese:siccus
+tearless : [Adjective]	portuguese:sine lacrimis
+tearlessly : [Adverb]	portuguese:sine lacrimis
+tears : [Verb]	portuguese:lacerat
+tears : [Noun]	portuguese:lacrimae
+tears : [Verb]	portuguese:laniat
+tears : [Noun]	portuguese:scissurae
+tears : [Verb]	portuguese:vellit
+tease : [Verb]	portuguese:fatigare
+tease : [Verb]	portuguese:obtundere
+tease : [Verb]	portuguese:vexare
+teasel : [Noun]	portuguese:dipsacus
+teases : [Verb]	portuguese:fatiga
+teases : [Verb]	portuguese:obtundit
+teases : [Verb]	portuguese:vexa
+teat : [Noun]	portuguese:mamilla
+teat : [Noun]	portuguese:mamma
+teats : [Noun]	portuguese:mamillae
+teats : [Noun]	portuguese:mammae
+teazel : [Noun]	portuguese:mammae
+ten : [Adjective]	portuguese:decem (indecl.)
+thence : [Adverb]	portuguese:inde
+thenceforth : [Adverb]	portuguese:inde
+theologian : [Noun]	portuguese:theologus
+theologians : [Noun]	portuguese:theologi
+theological : [Adjective]	portuguese:theologicus
+theology : [Noun]	portuguese:theologia
+theorem : [Noun]	portuguese:theorema
+three : [Adjective]	portuguese:tres, tria (m/f, n)
+town : [Noun]	portuguese:oppidum
+towns : [Noun]	portuguese:oppida
+truth : [Noun]	portuguese:veritas
+two : [Adjective]	portuguese:duo, duae, dua 
+versatile : [Adjective]	portuguese:versatilis, -e
+versifier : [Noun]	portuguese:versificator, -oris (m.)
+wages : [Noun]	portuguese:merces
+wagon : [Noun]	portuguese:carrus
+wail : [Verb]	portuguese:ploro
+wailing : [Noun]	portuguese:ploratus
+waist : [Noun]	portuguese:medium corpus
+waistcoat : [Noun]	portuguese:subucula
+weep : [Verb]	portuguese:flere
+weep : [Verb]	portuguese:lacrimare
+weep : [Verb]	portuguese:lamentari
+weep : [Verb]	portuguese:plorare
+weeping : [Noun]	portuguese:fletus
+weeping : [Noun]	portuguese:lacrimae
+weeping : [Noun]	portuguese:lamentatio
+weeping : [Noun]	portuguese:ploratus
+weeps : [Verb]	portuguese:fleret
+weeps : [Verb]	portuguese:lacrima
+weeps : [Verb]	portuguese:plora
+weevil : [Noun]	portuguese:curculio
+weigh : [Verb]	portuguese:examinare
+weigh : [Verb]	portuguese:pendere
+weigh : [Verb]	portuguese:pensare
+weigh : [Verb]	portuguese:pensitare
+weighs : [Verb]	portuguese:examinat
+weighs : [Verb]	portuguese:pendit
+weight : [Noun]	portuguese:gravitus
+weight : [Noun]	portuguese:momentum
+weighty : [Adjective]	portuguese:gravis
+weir : [Noun]	portuguese:agger
+weir : [Noun]	portuguese:moles
+welcome : [Adjective]	portuguese:acceptus
+welcome : [Adjective]	portuguese:commodus
+welcome : [Adjective]	portuguese:gratus
+welcome : [Noun]	portuguese:salutatio
+whore : [Noun]	portuguese:meretrix, -icis (f.)
+whores : [Noun]	portuguese:meretrices, -ium (f.)

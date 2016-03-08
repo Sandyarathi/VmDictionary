@@ -1,0 +1,384 @@
+abacus : [Noun]	spanish:abacus
+abacuses : [Noun]	spanish:abaci
+abandoned : [Adjective]	spanish:desertus, perditus
+abandonee : [Noun]	spanish:desertus, perditus
+abandoner : [Noun]	spanish:desertor, gen. desertoris
+abandoning : [Adjective]	spanish:deserens
+abandonment : [Noun]	spanish:destitutio (f.), gen. destitutionis
+abandonments : [Noun]	spanish:destitutiones
+abandons : [Verb]	spanish:deserit, relinquit, destituit
+abase : [Verb]	spanish:deminuere
+abased : [Verb]	spanish:deminui
+abased : [Adjective]	spanish:deminutus
+abasement : [Noun]	spanish:deminutio (f.), gen. deminutionis
+abasements : [Noun]	spanish:deminutiones
+abases : [Verb]	spanish:minuit, frangit, deminuit
+abashed : [Adjective]	spanish:perturbatus
+abashes : [Verb]	spanish:perturbat
+abashment : [Noun]	spanish:perturbatio (f.), gen. perturbationis
+abasing : [Adjective]	spanish:minuens, frangens, deminuens
+abated : [Verb]	spanish:cecidi, imminui, remissi
+abatements : [Noun]	spanish:remissiones
+abates : [Verb]	spanish:cadit, imminuit, remittit
+abating : [Adjective]	spanish:cadens, imminuens, remittens
+abbe : [Noun]	spanish:abbas, gen. abbatis
+abbey : [Noun]	spanish:abbatia, -ae, fem
+abbeys : [Noun]	spanish:abbatiae, -arum, fem
+abbot : [Noun]	spanish:abbas, gen. abbatis
+abbots : [Noun]	spanish:abbates
+abbreviate : [Verb]	spanish:imminuare
+abdicate : [Verb]	spanish:abdicare
+abdomen : [Noun]	spanish:abdomen
+abduct : [Verb]	spanish:rapiere
+abduction : [Noun]	spanish:raptus
+aberration : [Noun]	spanish:error
+abet : [Verb]	spanish:adiuvare
+abetter : [Noun]	spanish:instigator
+abhor : [Verb]	spanish:abhorrere
+abhorrence : [Noun]	spanish:odium
+abhorrent : [Adjective]	spanish:perosus
+abide : [Verb]	spanish:patior
+ability : [Noun]	spanish:facultas
+abject : [Adjective]	spanish:abjectus
+ablaze : [Adjective]	spanish:ardens
+advertisement : [Noun]	spanish:proscriptio, -onis (f.)
+advertisements : [Noun]	spanish:proscriptiones, -ium (f.)
+advise : [Verb]	spanish:admoneo, -ere, -monui, -monitum
+advise : [Verb]	spanish:moneo, monere, monui, monitum
+advised : [Adjective]	spanish:monitus
+and : [Conjunction]	spanish:et
+and : [Conjunction]	spanish:-que (enclitic conjunction, suffix) 
+approach : [Verb]	spanish:appropinquare
+arrow : [Noun]	spanish:saggitus, -i (m.)
+arrows : [Noun]	spanish:saggiti, -orum (m.)
+art : [Noun]	spanish:ars, artis 
+avarice : [Noun]	spanish:avaritia
+avariciously : [Adverb]	spanish:avare
+backward : [Adjective]	spanish:aversus
+bad : [Adjective]	spanish:malus
+bastard : [Noun]	spanish:nothus
+be : [Verb]	spanish:esse
+best : [Adjective]	spanish:maximus, -a, -um
+best : [Adverb]	spanish:maxime
+better : [Adjective]	spanish:melior
+better : [Adverb]	spanish:meliorius
+blind : [Adjective]	spanish:caecus
+boy : [Noun]	spanish:puer
+but : [Conjunction]	spanish:sed
+but : [Conjunction]	spanish:atque (stronger form, "but mind you..")
+but : [Conjunction]	spanish:ac (diff. spelling of atque)
+citizen : [Noun]	spanish:citizen
+condemn : [Verb]	spanish:damno, -are, -avi, -atus
+condemnation : [Noun]	spanish:damnatio, -onis (f.)
+condemnations : [Noun]	spanish:damnationes, -ium (f.)
+condemnatory : [Adjective]	spanish:damnatiorius
+condemned : [Adjective]	spanish:damnatus
+condemning : [Noun]	spanish:damnans, -ntis
+contemplate : [Verb]	spanish:contemplari
+contemplate : [Verb]	spanish:intueri
+contemplation : [Noun]	spanish:contemplatio
+contemporaneous : [Adjective]	spanish:quod eodem tempore est
+contemporary : [Adjective]	spanish:aequalis
+contempt : [Noun]	spanish:contemptus
+contempt : [Noun]	spanish:fastidium
+contemptible : [Adjective]	spanish:abiectus
+contemptible : [Adjective]	spanish:contemnendus
+contemptible : [Adjective]	spanish:contemptus
+contemptible : [Adjective]	spanish:turpis
+contend : [Verb]	spanish:certare
+contend : [Verb]	spanish:contendere
+contend : [Verb]	spanish:decernere
+contends : [Verb]	spanish:certat
+contends : [Verb]	spanish:decernit
+content : [Adjective]	spanish:contentus
+contented : [Adjective]	spanish:contentus
+contentedly : [Adverb]	spanish:aequo animo
+contentedness : [Noun]	spanish:animus contentus
+contentious : [Adjective]	spanish:pugnax
+contentment : [Noun]	spanish:animus contentus
+contents : [Noun]	spanish:quod in libro continetur
+conterminous : [Adjective]	spanish:confinis
+contest : [Noun]	spanish:certamen
+contest : [Noun]	spanish:certatio
+contest : [Verb]	spanish:contendere
+contest : [Noun]	spanish:contentio
+context : [Noun]	spanish:argumentum
+context : [Noun]	spanish:ratio verborum
+contexts : [Noun]	spanish:argumenti
+contiguity : [Noun]	spanish:propinquitas
+contiguity : [Noun]	spanish:vicinitas
+contiguous : [Adjective]	spanish:confinis
+contiguous : [Adjective]	spanish:continens
+continence : [Noun]	spanish:continentia
+continence : [Noun]	spanish:temperantia
+continent : [Adjective]	spanish:castus
+continent : [Noun]	spanish:continens
+cookie : [Noun]	spanish:crustulum, -i (n.)
+cookies : [Noun]	spanish:crustuli, -orum (n.)
+create : [Verb]	spanish:creare (inf.)
+created : [Adjective]	spanish:creatus
+creator : [Noun]	spanish:creator, -oris (m.)
+creators : [Noun]	spanish:creatores, -ium (m.)
+credible : [Adjective]	spanish:credebilis, -e
+credibly : [Adverb]	spanish:credebiliter
+creditor : [Noun]	spanish:creditor, -oris (m.)
+creditors : [Noun]	spanish:creditores, -ium (m.)
+credulity : [Noun]	spanish:credulitas, -atis (f.)
+credulous : [Adjective]	spanish:credulus
+credulously : [Adverb]	spanish:credule
+cunning : [Noun]	spanish:versutiae, -arum
+cunningly : [Adverb]	spanish:versute
+cupidity : [Noun]	spanish:cupiditas, -atis
+daily : [Adverb]	spanish:cotidie (or cottidie)
+danger : [Noun]	spanish:periculum
+death : [Noun]	spanish:mors
+devil : [Noun]	spanish:diabolus, -i (m.) (as in Satan)
+devils : [Noun]	spanish:diaboli, -orum (m.)
+drunken : [Adverb]	spanish:ebrius
+enough : [Noun]	spanish:satis (indecl.)
+err : [Verb]	spanish:errare
+erring : [Noun]	spanish:errans
+eternal : [Adjective]	spanish:aeturnus
+eternally : [Adverb]	spanish:aeturne
+experienced : [Adjective]	spanish:versatus
+eye : [Noun]	spanish:oculus, -i (m.)
+eyes : [Noun]	spanish:oculi, -orum (m.)
+fall : [Verb]	spanish:labes
+fire : [Noun]	spanish:ignem
+five : [Adjective]	spanish:quinque (indecl.)
+forget : [Verb]	spanish:oblivisci
+forgetful : [Adjective]	spanish:obliviosus
+forgetfulness : [Noun]	spanish:oblivio
+forgiveness : [Noun]	spanish:venia
+forgiving : [Adjective]	spanish:clemens
+fork : [Noun]	spanish:furca
+forked : [Adjective]	spanish:bifurcus
+forlorn : [Adjective]	spanish:relictus
+four : [Adjective]	spanish:quattuor (indecl.) (IV, IIII)
+glorious : [Adjective]	spanish:decorum
+go : [Verb]	spanish:Ite
+go : [Verb]	spanish:eo, ire, ii, itum
+good : [Adjective]	spanish:bonus, -a, -um
+greed : [Noun]	spanish:avaritia
+haberdasher : [Noun]	spanish:linteo -onis (m)
+haberdashery : [Noun]	spanish:taberna -ae (f)
+habit : [Noun]	spanish:consuetudo -inis (f)
+habitation : [Noun]	spanish:habitatio -onis (f)
+habitual : [Adjective]	spanish:usitatus -a -um
+habitually : [Adverb]	spanish:de more
+iron : [Noun]	spanish:ferrum, -i (n.) (as the metal)
+kill : [Verb]	spanish:neco, necare, necavi, necatum
+killed : [Adjective]	spanish:necatus
+law : [Noun]	spanish:lex,legis
+lead : [Verb]	spanish:ducere
+light : [Noun]	spanish:lux,lucis
+machete : [Noun]	spanish:gladium
+machine : [Noun]	spanish:machina
+master : [Noun]	spanish:magister, -tri (m.); magistra, -ae (f.)
+masters : [Noun]	spanish:magistri, -orum (m.); magistrae, -arum (f.)
+meditate : [Verb]	spanish:cogitare
+meditate : [Verb]	spanish:commentari
+meditate : [Verb]	spanish:meditari
+meditates : [Verb]	spanish:cogitat
+meditation : [Noun]	spanish:cogitatio
+meditation : [Noun]	spanish:commentatio
+meditation : [Noun]	spanish:meditatio
+meditative : [Adjective]	spanish:in cognitatione defixus
+medlar : [Noun]	spanish:mespilum
+medlar : [Noun]	spanish:mespilus
+medley : [Noun]	spanish:conluvies
+medley : [Noun]	spanish:conluvio
+medley : [Noun]	spanish:farrago
+meek : [Adjective]	spanish:demissus
+meek : [Adjective]	spanish:modestus
+meek : [Adjective]	spanish:verecundus
+meekly : [Adverb]	spanish:modeste
+meekly : [Adverb]	spanish:verecunde
+meekness : [Noun]	spanish:animus demissus
+meekness : [Noun]	spanish:modestia
+meekness : [Noun]	spanish:verecundia
+meeting : [Noun]	spanish:concursus
+meeting : [Noun]	spanish:congressio
+meeting : [Noun]	spanish:conventus
+monster : [Noun]	spanish:belua
+moon : [Noun]	spanish:luna
+moons : [Noun]	spanish:lunae
+motherland : [Noun]	spanish:patria
+mountain : [Noun]	spanish:mons,montis
+mouse : [Noun]	spanish:mus
+mouth : [Noun]	spanish:os
+multicolored : [Adjective]	spanish:versicolor, -oris (abl.: -ore, -ori)
+new : [Adjective]	spanish:novus, -a, -um
+nor : [Conjunction]	spanish:nec
+nor : [Conjunction]	spanish:nec... nec... "neither... nor..."
+nothing : [Noun]	spanish:nihil (indecl.)
+opponent : [Noun]	spanish:adversatrix, -icis (f.); adversator, -oris (m.)
+opportune : [Adjective]	spanish:opportunus
+opportunely : [Adverb]	spanish:opportune
+opportunity : [Noun]	spanish:opportunitas, -atis (f.)
+opposite : [Adjective]	spanish:adversarius
+oppositely : [Adverb]	spanish:adversum
+opprobrium : [Noun]	spanish:opprobrium, -i (n.)
+or : [Conjunction]	spanish:aut
+or : [Conjunction]	spanish:aut... aut ("either... or...")
+pacemaker : [Noun]	spanish:No Translation
+pillow : [Noun]	spanish:lodix, -icis
+pillows : [Noun]	spanish:lodices, -ium
+praise : [Verb]	spanish:laudo, laudare, laudavi, laudatum
+praise : [Verb]	spanish:lauda (command)
+praised : [Adjective]	spanish:laudatus, -a, -um
+praiser : [Noun]	spanish:laudator, -oris (m.)
+praisers : [Noun]	spanish:laudatores, -ium (m.)
+pray : [Verb]	spanish:orare
+pray : [Verb]	spanish:precari
+pray : [Verb]	spanish:rogare
+prayer : [Noun]	spanish:imploratio
+prayer : [Noun]	spanish:precatio
+prayer : [Noun]	spanish:preces
+prayerful : [Adjective]	spanish:supplex
+praying : [Noun]	spanish:precatio
+praying : [Noun]	spanish:preces
+preach : [Verb]	spanish:docere
+preach : [Verb]	spanish:orationem habere
+preach : [Verb]	spanish:praedicare
+preacher : [Noun]	spanish:praedicator
+preaches : [Verb]	spanish:docet
+preaches : [Verb]	spanish:orationem habet
+preaches : [Verb]	spanish:praedica
+preamble : [Noun]	spanish:exordium
+preambles : [Noun]	spanish:exordia
+prosecutor : [Noun]	spanish:condemnator, -oris (m.)
+prosecutors : [Noun]	spanish:condemnatores, -ium (m.)
+prospect : [Noun]	spanish:prospectus, -us (m.)
+prospering : [Noun]	spanish:prosperans, -ntis
+prosperity : [Noun]	spanish:prosperitas, -atis (f.)
+prosperous : [Adjective]	spanish:prosperus
+prosperously : [Adverb]	spanish:prospere
+prostitute : [Verb]	spanish:prostituo, -ere, -ui, -utus
+prostrate : [Verb]	spanish:prosterno, -ere, -stravi, -stratum
+prostrated : [Adjective]	spanish:prostratus
+quadrangular : [Adjective]	spanish:quadriangulus
+quadruped : [Noun]	spanish:quadrupes
+quadruple : [Adjective]	spanish:quadruplex
+quaestor : [Noun]	spanish:quaestor
+quagmire : [Noun]	spanish:palus
+quail : [Noun]	spanish:coturnix
+quails : [Noun]	spanish:coturnices
+quaint : [Adjective]	spanish:mirus
+quake : [Verb]	spanish:tremere
+qualified : [Adjective]	spanish:aptus
+read : [Verb]	spanish:legere
+read : [Verb]	spanish:recitare
+readable : [Adjective]	spanish:iucundus legenti
+reader : [Noun]	spanish:lector
+reader : [Noun]	spanish:legens
+readily : [Adverb]	spanish:facile
+readily : [Adjective]	spanish:prompte
+readiness : [Noun]	spanish:animus promptus
+reading : [Noun]	spanish:lectio
+reading : [Noun]	spanish:recitatio
+reads : [Verb]	spanish:legit
+reads : [Verb]	spanish:recita
+ready : [Adjective]	spanish:paratus
+ready : [Adjective]	spanish:promptus
+real : [Adjective]	spanish:sincerus
+real : [Adjective]	spanish:verus
+realism : [Noun]	spanish:veritatem imitari
+realistic : [Adjective]	spanish:veritatem imitari
+save : [Verb]	spanish:servare
+saves : [Verb]	spanish:servat
+savior : [Noun]	spanish:salvator
+seize : [Preposition]	spanish:carpe
+senate : [Noun]	spanish:senatus, -us (m.)
+seven : [Adjective]	spanish:septem (indecl.)
+shade : [Noun]	spanish:umbra, -ae (f.) (as in the shade of an umbrella)
+shades : [Noun]	spanish:umbrae, -arum (f) (as in the shade of an umbrella)
+sinners : [Noun]	spanish:maledicti
+spirit : [Noun]	spanish:spiritum
+superintendent : [Noun]	spanish:curator, -oris
+sweet : [Adjective]	spanish:dulce
+sword : [Noun]	spanish:gladius
+tear : [Noun]	spanish:fletus
+tear : [Verb]	spanish:lacerare
+tear : [Noun]	spanish:lacrima
+tear : [Verb]	spanish:laniare
+tear : [Verb]	spanish:scindere
+tear : [Verb]	spanish:vellere
+teardrop : [Noun]	spanish:fletus
+teardrop : [Noun]	spanish:lacrima
+tearful : [Adjective]	spanish:flebilis
+tearful : [Adjective]	spanish:lacrimans
+tearful : [Adjective]	spanish:lacrimosus
+tearfully : [Adverb]	spanish:magno cum fletu
+tearfully : [Adverb]	spanish:multis cum lacrimis
+tearing : [Noun]	spanish:scissura
+tearless : [Adjective]	spanish:siccus
+tearless : [Adjective]	spanish:sine lacrimis
+tearlessly : [Adverb]	spanish:sine lacrimis
+tears : [Verb]	spanish:lacerat
+tears : [Noun]	spanish:lacrimae
+tears : [Verb]	spanish:laniat
+tears : [Noun]	spanish:scissurae
+tears : [Verb]	spanish:vellit
+tease : [Verb]	spanish:fatigare
+tease : [Verb]	spanish:obtundere
+tease : [Verb]	spanish:vexare
+teasel : [Noun]	spanish:dipsacus
+teases : [Verb]	spanish:fatiga
+teases : [Verb]	spanish:obtundit
+teases : [Verb]	spanish:vexa
+teat : [Noun]	spanish:mamilla
+teat : [Noun]	spanish:mamma
+teats : [Noun]	spanish:mamillae
+teats : [Noun]	spanish:mammae
+teazel : [Noun]	spanish:mammae
+ten : [Adjective]	spanish:decem (indecl.)
+thence : [Adverb]	spanish:inde
+thenceforth : [Adverb]	spanish:inde
+theologian : [Noun]	spanish:theologus
+theologians : [Noun]	spanish:theologi
+theological : [Adjective]	spanish:theologicus
+theology : [Noun]	spanish:theologia
+theorem : [Noun]	spanish:theorema
+three : [Adjective]	spanish:tres, tria (m/f, n)
+town : [Noun]	spanish:oppidum
+towns : [Noun]	spanish:oppida
+truth : [Noun]	spanish:veritas
+two : [Adjective]	spanish:duo, duae, dua 
+versatile : [Adjective]	spanish:versatilis, -e
+versifier : [Noun]	spanish:versificator, -oris (m.)
+wages : [Noun]	spanish:merces
+wagon : [Noun]	spanish:carrus
+wail : [Verb]	spanish:ploro
+wailing : [Noun]	spanish:ploratus
+waist : [Noun]	spanish:medium corpus
+waistcoat : [Noun]	spanish:subucula
+weep : [Verb]	spanish:flere
+weep : [Verb]	spanish:lacrimare
+weep : [Verb]	spanish:lamentari
+weep : [Verb]	spanish:plorare
+weeping : [Noun]	spanish:fletus
+weeping : [Noun]	spanish:lacrimae
+weeping : [Noun]	spanish:lamentatio
+weeping : [Noun]	spanish:ploratus
+weeps : [Verb]	spanish:fleret
+weeps : [Verb]	spanish:lacrima
+weeps : [Verb]	spanish:plora
+weevil : [Noun]	spanish:curculio
+weigh : [Verb]	spanish:examinare
+weigh : [Verb]	spanish:pendere
+weigh : [Verb]	spanish:pensare
+weigh : [Verb]	spanish:pensitare
+weighs : [Verb]	spanish:examinat
+weighs : [Verb]	spanish:pendit
+weight : [Noun]	spanish:gravitus
+weight : [Noun]	spanish:momentum
+weighty : [Adjective]	spanish:gravis
+weir : [Noun]	spanish:agger
+weir : [Noun]	spanish:moles
+welcome : [Adjective]	spanish:acceptus
+welcome : [Adjective]	spanish:commodus
+welcome : [Adjective]	spanish:gratus
+welcome : [Noun]	spanish:salutatio
+whore : [Noun]	spanish:meretrix, -icis (f.)
+whores : [Noun]	spanish:meretrices, -ium (f.)
