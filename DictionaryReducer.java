@@ -12,13 +12,13 @@ public class DictionaryReducer extends Reducer<Text,Text,Text,Text> {
         boolean french=false;
         boolean german=false;
         boolean italian=false;
-        boolean portugese=false;
+        boolean portuguese=false;
         boolean spanish=false;
 
         String frenchWord="";
         String germanWord="";
         String italianWord="";
-        String portugeseWord="";
+        String portugueseWord="";
         String spanishWord="";
 
 
@@ -41,9 +41,9 @@ public class DictionaryReducer extends Reducer<Text,Text,Text,Text> {
                 italian=true;
                 italianWord=language[0]+":"+listValues(language[1]);
             }
-            else if(language[0].matches("portugese*")){
-                portugese=true;
-                portugeseWord=language[0]+":"+listValues(language[1]);
+            else if(language[0].matches("portuguese*")){
+                portuguese=true;
+                portugueseWord=language[0]+":"+listValues(language[1]);
             }
             else if(language[0].matches("spanish*")){
                 spanish=true;
@@ -60,14 +60,14 @@ public class DictionaryReducer extends Reducer<Text,Text,Text,Text> {
         if(french == false) {
             frenchWord= "french:N/A";
         }
-        if(portugese == false) {
-            portugeseWord= "portugese:N/A";
+        if(portuguese == false) {
+            portugueseWord= "portuguese:N/A";
         }
         if(spanish == false) {
-            spanishWord= "spanish : N/A";
+            spanishWord= "spanish:N/A";
         }
         
-        translations += frenchWord +" | "+germanWord+" | "+italianWord+" | "+portugeseWord+" | "+spanishWord;
+        translations += frenchWord +" | "+germanWord+" | "+italianWord+" | "+portugueseWord+" | "+spanishWord;
         result.set(translations);
         context.write(word, result);
    }
