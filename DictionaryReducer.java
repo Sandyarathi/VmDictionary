@@ -14,21 +14,17 @@ public class DictionaryReducer extends Reducer<Text,Text,Text,Text> {
         boolean italian=false;
         boolean portuguese=false;
         boolean spanish=false;
-
         String frenchWord="";
         String germanWord="";
         String italianWord="";
         String portugueseWord="";
         String spanishWord="";
-
-
         String translations = "";
         for (Text val : values){
             System.out.println("Full Value :"+val);
             String[] language = val.toString().split(":");
             System.out.println("language:"+language[0]);
-            System.out.println("values:"+language[1]);
-            
+            System.out.println("values:"+language[1]);            
             if(language[0].matches("french")){
                 french=true;
                 frenchWord=language[0]+":"+listValues(language[1]);
@@ -48,8 +44,7 @@ public class DictionaryReducer extends Reducer<Text,Text,Text,Text> {
             else if(language[0].matches("spanish*")){
                 spanish=true;
                 spanishWord=language[0]+":"+listValues(language[1]);
-            }
-                
+            }                
         }
         if(german==false){
             germanWord= "german:N/A";
@@ -65,8 +60,7 @@ public class DictionaryReducer extends Reducer<Text,Text,Text,Text> {
         }
         if(spanish == false) {
             spanishWord= "spanish:N/A";
-        }
-        
+        }        
         translations += frenchWord +" | "+germanWord+" | "+italianWord+" | "+portugueseWord+" | "+spanishWord;
         result.set(translations);
         context.write(word, result);
